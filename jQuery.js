@@ -10,7 +10,7 @@ $(function (){
     $('.nav li');
 
     // 5. Select the third li inside of the div with a class of list-container.
-    $('.list-container li:nth-child(3');
+    $('.list-container li:nth-child(3)');
 
     // 6. Select only the last li in each of the uls.
     $('ul li:last-child');
